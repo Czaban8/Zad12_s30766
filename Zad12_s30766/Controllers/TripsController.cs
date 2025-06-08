@@ -2,7 +2,7 @@
 using Zad12_s30766.DTOs;
 using Zad12_s30766.Services;
 
-namespace Zad12_2.Controllers
+namespace Zad12_s30766.Controllers
 {
     [ApiController]
     [Route("api/trips")]
